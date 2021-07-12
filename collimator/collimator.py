@@ -1,7 +1,7 @@
 '''
 Author: 大碗豆汁儿
 Date: 2021-06-14 14:33:07
-LastEditTime: 2021-07-12 15:25:16
+LastEditTime: 2021-07-12 15:43:54
 Description: collimator
 '''
 import win32gui
@@ -72,7 +72,7 @@ try:
 3.请勿使用分辨率缩放，会导致准星位置错误
 4.若发现cpu占用高，请关闭本软件并购买新cpu
 5.已经过测试，游戏封禁与本软件无关
-6.打包软件版本暂时只支持Windows系统，其他系统请使用python自行编译运行
+6.本软件暂时只支持Windows系统
 7.有任何问题请联系作者--->https://space.bilibili.com/175397396
 
 collimatorSetting.json设置：
@@ -102,3 +102,5 @@ except Exception as e:
 ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝
 {e}
           ''')
+    while True:
+        pass

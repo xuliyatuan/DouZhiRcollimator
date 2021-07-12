@@ -1,7 +1,7 @@
 <!--
  * @Author: bilibili. 大碗豆汁儿
  * @Date: 2021-07-12 15:12:47
- * @LastEditTime: 2021-07-12 15:24:58
+ * @LastEditTime: 2021-07-12 15:45:02
  * @Description: README.md
 -->
 辅助准星
@@ -14,7 +14,7 @@
 3. 请勿使用分辨率缩放，会导致准星位置错误
 4. 若发现 cpu 占用高，请关闭本软件并购买新 cpu
 5. 已经过测试，游戏封禁与本软件无关
-6. 打包软件版本暂时只支持 Windows 系统，其他系统请使用 python 自行编译运行
+6. 本软件暂时只支持 Windows 系统
 7. 有任何问题请联系作者 --->https://space.bilibili.com/175397396
 
 # collimatorSetting.json 设置：
